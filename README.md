@@ -8,6 +8,7 @@ or
 navigate to directory where the 2 files are (ideally place these 2 files in a new directory)
 
 chmod +x create-image-vuln-list.py
+
 ./image-vuln-list.py
 
 
